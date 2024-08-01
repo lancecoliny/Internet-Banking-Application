@@ -10,3 +10,9 @@ Transaction Management: View and manage transactions, including deposits, withdr
 Customer Management: Admins can view and manage customer information, including account details.
 Data Security: Implementation of industry-standard security practices to protect sensitive customer data and transactions.
 Responsive Design: Modern and responsive UI ensuring accessibility across various devices.
+
+![Screenshot 2024-08-01 220908](https://github.com/user-attachments/assets/d7b97b9f-2f48-44ff-b0a0-57dc51a294ce)
+
+![Screenshot 2024-08-01 220949](https://github.com/user-attachments/assets/b1fd9f47-bceb-40dd-b5ab-3ea1820e2196)
+
+![Screenshot 2024-08-01 221102](https://github.com/user-attachments/assets/01e2de72-83db-4d5d-808d-3444317c39fb)
